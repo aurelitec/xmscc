@@ -1,0 +1,12 @@
+XMS Control Center displays the current setup
+of your eXtended Memory Manager (XMM) and
+allows you to change the layout of extended
+memory by modifying the currently allocated
+Extended Memory Blocks (EMBs). XMS Control
+Center is able to display information about
+each extended block currently allocated and
+allows you to free, lock, unlock or
+reallocate it. You can also allocate new
+extended memory blocks. Works in both
+interactive and command-line mode. Created by
+Devliber in 1997.
