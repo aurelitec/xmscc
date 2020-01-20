@@ -169,3 +169,12 @@ Note: If you are using other eXtended Memory Manager than HIMEM.SYS and you'd li
 Note: If you include XMS Control Center on a CD-ROM package feel free to send a copy to the author.
 
 The more feedback I get the more likely I am to continue improving XMS Control Center and writing other freeware utilities.
+
+## Contributing
+[Pull requests](https://github.com/Devliber/xmscc/pulls) are welcome. For major changes, please open an [issue](https://github.com/Devliber/xmscc/issues) first to discuss what you would like to change.
+
+## License
+
+Copyright (c) Devliber. All rights reserved.
+
+Licensed under the [MIT](LICENSE) license.
