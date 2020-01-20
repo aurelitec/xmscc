@@ -1,6 +1,8 @@
 # XMS Control Center
 An XMS management &amp; information utility, with a simple text-based user interface. Written in Borland C++ in 1997.
 
+![Screenshot of XMS Control Center running on Windows 7 in VirtualBox](https://github.com/Devliber/xmscc/blob/master/assets/readme/xmscc-win7-vbox.png)
+
 ## Introduction
 
 Extended memory is RAM above the 1-Megabyte boundary, and is available only on machines that have a 286 or greater CPU. In order for most applications to be able to use extended memory, an XMS driver must be installed to manage it. The most popular XMS driver is HIMEM.SYS from Microsoft.
