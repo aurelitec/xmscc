@@ -6,7 +6,7 @@
 /*  RAMVIEW.CPP: Program source code                                      */
 /*                                                                        */
 /*  Created in May 1997                                                   */
-/*  Copyright (c) 1997 Devliber (https://devliber.com)                    */
+/*  Copyright (c) 1997 Aurelitec (https://www.aurelitec.com)                    */
 /*                                                                        */
 /*  Written and compiled in Borland C++ 3.1.                              */
 /*                                                                        */
@@ -74,7 +74,7 @@ char *errstr_nomem = "Out of memory";
 char *errstr_noerror = "Done.";
 
 char *SM_PrgHeader1 = "XMS Control Center    XMS management and information utility    Version 1.5";
-char *SM_PrgHeader2 = "Copyright (c) 1997 Devliber. July 29 1997. Type XMSCC /? for help\n";
+char *SM_PrgHeader2 = "Copyright (c) 1997 Aurelitec. July 29 1997. Type XMSCC /? for help\n";
 
 char *SM_EMBHeader1 = "EMBs and Available Handles";
 char *SM_EMBHeader2 = "EMBs";
@@ -210,9 +210,9 @@ void drawScreen(void)
 
     // display version and author information
     win(1, 2, 80, 2, cAppInfoBar);
-    cputs(" Version 1.5 ³ Copyright (c) 1997 Devliber");
+    cputs(" Version 1.5 ï¿½ Copyright (c) 1997 Aurelitec");
     gotoxy(68, 1);
-    cputs("³ F10 = Exit");
+    cputs("ï¿½ F10 = Exit");
 }
 
 void drawStatusLine(void)

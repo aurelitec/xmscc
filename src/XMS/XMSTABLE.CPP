@@ -3,7 +3,7 @@
 /*  Get XMS handle table using INT 0x2F, function 0x4309,                 */
 /*  supported by HIMEM.SYS v3.09+                                         */
 /*                                                                        */
-/*  Copyright (c) 1997 Devliber (https://devliber.com)                    */
+/*  Copyright (c) 1997 Aurelitec (https://www.aurelitec.com)                    */
 /*                                                                        */
 /*  Written and compiled in Borland C++ 3.1.                              */
 /*                                                                        */
@@ -12,7 +12,7 @@
 /*                                                                        */
 /*  This source file is part of the                                       */
 /*  XMS Interface for Borland C/C++ Library Version 1.5                   */
-/*  developed by Devliber                                                 */
+/*  developed by Aurelitec                                                 */
 /*                                                                        */
 /*------------------------------------------------------------------------*/
 

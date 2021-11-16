@@ -7,7 +7,7 @@
 ────────────────────────────────────────────────────────
     XMS Management & Information Utility
 ────────────────────────────────────────────────────────
-    Copyright (c) 1997 Devliber
+    Copyright (c) 1997 Aurelitec
     July 29 1997
 
     Licensed under the MIT License.
@@ -219,7 +219,7 @@
 
 
   XMS Control Center was written using the XMS Interface for Borland C/C++
-  and Borland Pascal (XMSBCP) Version 1.1 (freeware) developed by Devliber.
+  and Borland Pascal (XMSBCP) Version 1.1 (freeware) developed by Aurelitec.
   This library is available by anonymous ftp from Simtel and its mirrors 
   (msdos/pgmutl/xmsbcp11.zip).
 
@@ -274,11 +274,11 @@
   For technical support, questions, comments, problems or incompatibilities,
   suggestions, enhancements, write to
 
-  contact@devliber.com
+  contact@aurelitec.com
 
   or visit
 
-  https://devliber.com
+  https://www.aurelitec.com
 
 
   Note: If you are using other eXtended Memory Manager than HIMEM.SYS and

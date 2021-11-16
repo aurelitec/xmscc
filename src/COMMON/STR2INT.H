@@ -5,7 +5,7 @@
 /*  STR2INT.H: C++ Header File                                            */
 /*                                                                        */
 /*  Version 1.0 (Jul 16 1997)                                             */
-/*  Copyright (c) 1997 Devliber (https://devliber.com)                    */
+/*  Copyright (c) 1997 Aurelitec (https://www.aurelitec.com)                    */
 /*                                                                        */
 /*  Written and compiled in Borland C++ 3.1.                              */
 /*                                                                        */

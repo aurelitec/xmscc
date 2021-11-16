@@ -1,7 +1,7 @@
 # XMS Control Center
 An XMS management &amp; information utility, with a simple text-based user interface. Written in Borland C++ in 1997.
 
-![Screenshot of XMS Control Center running on Windows 7 in VirtualBox](https://github.com/Devliber/xmscc/blob/master/assets/readme/xmscc-win7-vbox.png)
+![Screenshot of XMS Control Center running on Windows 7 in VirtualBox](https://github.com/aurelitec/xmscc/blob/master/assets/readme/xmscc-win7-vbox.png)
 
 ## Introduction
 
@@ -108,7 +108,7 @@ XMS Control Center will return the following result codes after execution:
 | 2    | A VDISK device was detected. VDISK devices are incompatible with XMS drivers.  |
 | 3    | Out of memory (if the information about extended memory blocks is larger than the available memory - a very extreme case, unlikely to appear) |
 
-XMS Control Center was written using the XMS Interface for Borland C/C++ and Borland Pascal (XMSBCP) Version 1.1 (freeware) developed by Devliber. This library is available by anonymous ftp from Simtel and its mirrors (msdos/pgmutl/xmsbcp11.zip).
+XMS Control Center was written using the XMS Interface for Borland C/C++ and Borland Pascal (XMSBCP) Version 1.1 (freeware) developed by Aurelitec. This library is available by anonymous ftp from Simtel and its mirrors (msdos/pgmutl/xmsbcp11.zip).
 
 XMS Control Center has been tested under MS-DOS 5.0, 6.00, 6.2, 6.22, Microsoft Windows 3.1, Microsoft Windows 95 with HIMEM.SYS.
 
@@ -157,11 +157,11 @@ I'm always looking for suggestions!
 
 For technical support, questions, comments, problems or incompatibilities, suggestions, enhancements, write to
 
-contact@devliber.com
+contact@aurelitec.com
 
 or visit
 
-https://devliber.com
+https://www.aurelitec.com
 
 
 Note: If you are using other eXtended Memory Manager than HIMEM.SYS and you'd like XMS Control Center to support it directly, contact me.
@@ -171,10 +171,10 @@ Note: If you include XMS Control Center on a CD-ROM package feel free to send a 
 The more feedback I get the more likely I am to continue improving XMS Control Center and writing other freeware utilities.
 
 ## Contributing
-[Pull requests](https://github.com/Devliber/xmscc/pulls) are welcome. For major changes, please open an [issue](https://github.com/Devliber/xmscc/issues) first to discuss what you would like to change.
+[Pull requests](https://github.com/aurelitec/xmscc/pulls) are welcome. For major changes, please open an [issue](https://github.com/aurelitec/xmscc/issues) first to discuss what you would like to change.
 
 ## License
 
-Copyright (c) Devliber. All rights reserved.
+Copyright (c) Aurelitec. All rights reserved.
 
 Licensed under the [MIT](LICENSE) license.
