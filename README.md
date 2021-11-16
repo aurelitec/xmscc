@@ -1,7 +1,7 @@
 # XMS Control Center
 An XMS management &amp; information utility, with a simple text-based user interface. Written in Borland C++ in 1997.
 
-![Screenshot of XMS Control Center running on Windows 7 in VirtualBox](https://github.com/aurelitec/xmscc/blob/master/assets/readme/xmscc-win7-vbox.png)
+![Screenshot of XMS Control Center running on Windows 7 in VirtualBox](https://github.com/aurelitec/xmscc/blob/main/assets/readme/xmscc-win7-vbox.png)
 
 ## Introduction
 
